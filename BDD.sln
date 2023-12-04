@@ -5,7 +5,11 @@ VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProj", "SampleProj\SampleProj.csproj", "{ED8C5705-BD9D-4B7B-834E-9BE256FC88C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkedin Tests", "Linkedin Tests\Linkedin Tests.csproj", "{6D7F8094-0ED1-47BA-A5A3-85EB6982603B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linkedin Tests", "Linkedin Tests\Linkedin Tests.csproj", "{6D7F8094-0ED1-47BA-A5A3-85EB6982603B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BunnyCart", "BunnyCart\BunnyCart.csproj", "{EEDA29F7-0E08-4F52-8604-8C4D42C71CB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BunnyCartt", "BunnyCartt\BunnyCartt.csproj", "{840D71ED-81C7-4164-B498-E40D76D4EE92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{6D7F8094-0ED1-47BA-A5A3-85EB6982603B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D7F8094-0ED1-47BA-A5A3-85EB6982603B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D7F8094-0ED1-47BA-A5A3-85EB6982603B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDA29F7-0E08-4F52-8604-8C4D42C71CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDA29F7-0E08-4F52-8604-8C4D42C71CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDA29F7-0E08-4F52-8604-8C4D42C71CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDA29F7-0E08-4F52-8604-8C4D42C71CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840D71ED-81C7-4164-B498-E40D76D4EE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840D71ED-81C7-4164-B498-E40D76D4EE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840D71ED-81C7-4164-B498-E40D76D4EE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840D71ED-81C7-4164-B498-E40D76D4EE92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
